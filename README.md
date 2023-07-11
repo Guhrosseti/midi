@@ -11,6 +11,10 @@ Olá, Bem vindo ao meu projeto. Este projeto foi desenvolvido através dos curso
 
 * JavaScript
 
+## Link para acessar o projeto publicado:
+
+### https://midi-guhrosseti.vercel.app/
+
 ## Feito por:
 
 ### Gustavo Rosseti
