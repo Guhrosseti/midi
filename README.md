@@ -1,2 +1,18 @@
-# midi
-Reprodutor de sons, desenvolvido atraves dos cursos da Alura.
+# MIDI
+Olá, Bem vindo ao meu projeto. Este projeto foi desenvolvido através dos cursos de JavaScript da Alura Cursos.
+
+![image](https://github.com/Guhrosseti/assets-readme/blob/main/alura-midi.png)
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* JavaScript
+
+## Feito por:
+
+### Gustavo Rosseti
+
+### Linkedin: https://www.linkedin.com/in/gustavorosseti
