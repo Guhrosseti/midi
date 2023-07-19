@@ -17,6 +17,6 @@ Olá, Bem vindo ao meu projeto. Este projeto foi desenvolvido através dos curso
 
 ## Feito por:
 
-### Gustavo Rosseti
+### Gustavo Rosseti.
 
 ### Linkedin: https://www.linkedin.com/in/gustavorosseti
